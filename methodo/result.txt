@@ -1,0 +1,232 @@
+
+Parametre boucle : nb = 10
+
+résultat (nb = 10 ) trie par insertion : 0.000002 sec
+résultat (nb = 10 ) trie par fusion : 0.000004 sec
+résultat (nb = 10 ) trie rapide : 0.000002 sec
+résultat (nb = 10 ) trie par tas : 0.000002 sec
+résultat (nb = 10 ) trie Compte : 0.001101 sec
+
+Parametre boucle : nb = 15
+
+résultat (nb = 15 ) trie par insertion : 0.000002 sec
+résultat (nb = 15 ) trie par fusion : 0.000006 sec
+résultat (nb = 15 ) trie rapide : 0.000003 sec
+résultat (nb = 15 ) trie par tas : 0.000003 sec
+résultat (nb = 15 ) trie Compte : 0.001093 sec
+
+Parametre boucle : nb = 22
+
+résultat (nb = 22 ) trie par insertion : 0.000002 sec
+résultat (nb = 22 ) trie par fusion : 0.000012 sec
+résultat (nb = 22 ) trie rapide : 0.000004 sec
+résultat (nb = 22 ) trie par tas : 0.000004 sec
+résultat (nb = 22 ) trie Compte : 0.001051 sec
+
+Parametre boucle : nb = 33
+
+résultat (nb = 33 ) trie par insertion : 0.000004 sec
+résultat (nb = 33 ) trie par fusion : 0.000008 sec
+résultat (nb = 33 ) trie rapide : 0.000005 sec
+résultat (nb = 33 ) trie par tas : 0.000007 sec
+résultat (nb = 33 ) trie Compte : 0.000991 sec
+
+Parametre boucle : nb = 49
+
+résultat (nb = 49 ) trie par insertion : 0.000006 sec
+résultat (nb = 49 ) trie par fusion : 0.000014 sec
+résultat (nb = 49 ) trie rapide : 0.000007 sec
+résultat (nb = 49 ) trie par tas : 0.000010 sec
+résultat (nb = 49 ) trie Compte : 0.001010 sec
+
+Parametre boucle : nb = 73
+
+résultat (nb = 73 ) trie par insertion : 0.000012 sec
+résultat (nb = 73 ) trie par fusion : 0.000021 sec
+résultat (nb = 73 ) trie rapide : 0.000011 sec
+résultat (nb = 73 ) trie par tas : 0.000014 sec
+résultat (nb = 73 ) trie Compte : 0.000989 sec
+
+Parametre boucle : nb = 109
+
+résultat (nb = 109 ) trie par insertion : 0.000020 sec
+résultat (nb = 109 ) trie par fusion : 0.000027 sec
+résultat (nb = 109 ) trie rapide : 0.000016 sec
+résultat (nb = 109 ) trie par tas : 0.000022 sec
+résultat (nb = 109 ) trie Compte : 0.000992 sec
+
+Parametre boucle : nb = 163
+
+résultat (nb = 163 ) trie par insertion : 0.000051 sec
+résultat (nb = 163 ) trie par fusion : 0.000051 sec
+résultat (nb = 163 ) trie rapide : 0.000026 sec
+résultat (nb = 163 ) trie par tas : 0.000040 sec
+résultat (nb = 163 ) trie Compte : 0.001101 sec
+
+Parametre boucle : nb = 244
+
+résultat (nb = 244 ) trie par insertion : 0.000109 sec
+résultat (nb = 244 ) trie par fusion : 0.000077 sec
+résultat (nb = 244 ) trie rapide : 0.000038 sec
+résultat (nb = 244 ) trie par tas : 0.000058 sec
+résultat (nb = 244 ) trie Compte : 0.001081 sec
+
+Parametre boucle : nb = 366
+
+résultat (nb = 366 ) trie par insertion : 0.000268 sec
+résultat (nb = 366 ) trie par fusion : 0.000161 sec
+résultat (nb = 366 ) trie rapide : 0.000068 sec
+résultat (nb = 366 ) trie par tas : 0.000114 sec
+résultat (nb = 366 ) trie Compte : 0.001426 sec
+
+Parametre boucle : nb = 549
+
+résultat (nb = 549 ) trie par insertion : 0.000576 sec
+résultat (nb = 549 ) trie par fusion : 0.000227 sec
+résultat (nb = 549 ) trie rapide : 0.000101 sec
+résultat (nb = 549 ) trie par tas : 0.000181 sec
+résultat (nb = 549 ) trie Compte : 0.001109 sec
+
+Parametre boucle : nb = 823
+
+résultat (nb = 823 ) trie par insertion : 0.001378 sec
+résultat (nb = 823 ) trie par fusion : 0.000447 sec
+résultat (nb = 823 ) trie rapide : 0.000154 sec
+résultat (nb = 823 ) trie par tas : 0.000287 sec
+résultat (nb = 823 ) trie Compte : 0.001124 sec
+
+Parametre boucle : nb = 1234
+
+résultat (nb = 1234 ) trie par insertion : 0.002853 sec
+résultat (nb = 1234 ) trie par fusion : 0.000635 sec
+résultat (nb = 1234 ) trie rapide : 0.000248 sec
+résultat (nb = 1234 ) trie par tas : 0.000466 sec
+résultat (nb = 1234 ) trie Compte : 0.001082 sec
+
+Parametre boucle : nb = 1851
+
+résultat (nb = 1851 ) trie par insertion : 0.004732 sec
+résultat (nb = 1851 ) trie par fusion : 0.000597 sec
+résultat (nb = 1851 ) trie rapide : 0.000326 sec
+résultat (nb = 1851 ) trie par tas : 0.000608 sec
+résultat (nb = 1851 ) trie Compte : 0.001361 sec
+
+Parametre boucle : nb = 2776
+
+résultat (nb = 2776 ) trie par insertion : 0.010985 sec
+résultat (nb = 2776 ) trie par fusion : 0.000871 sec
+résultat (nb = 2776 ) trie rapide : 0.000551 sec
+résultat (nb = 2776 ) trie par tas : 0.001044 sec
+résultat (nb = 2776 ) trie Compte : 0.001117 sec
+
+Parametre boucle : nb = 4164
+
+résultat (nb = 4164 ) trie par insertion : 0.025271 sec
+résultat (nb = 4164 ) trie par fusion : 0.001324 sec
+résultat (nb = 4164 ) trie rapide : 0.000870 sec
+résultat (nb = 4164 ) trie par tas : 0.001637 sec
+résultat (nb = 4164 ) trie Compte : 0.001184 sec
+
+Parametre boucle : nb = 6246
+
+résultat (nb = 6246 ) trie par insertion : 0.053110 sec
+résultat (nb = 6246 ) trie par fusion : 0.002092 sec
+résultat (nb = 6246 ) trie rapide : 0.001191 sec
+résultat (nb = 6246 ) trie par tas : 0.002366 sec
+résultat (nb = 6246 ) trie Compte : 0.001142 sec
+
+Parametre boucle : nb = 9369
+
+résultat (nb = 9369 ) trie par insertion : 0.115971 sec
+résultat (nb = 9369 ) trie par fusion : 0.003156 sec
+résultat (nb = 9369 ) trie rapide : 0.001876 sec
+résultat (nb = 9369 ) trie par tas : 0.003659 sec
+résultat (nb = 9369 ) trie Compte : 0.001177 sec
+
+Parametre boucle : nb = 14053
+
+résultat (nb = 14053 ) trie par insertion : 0.274415 sec
+résultat (nb = 14053 ) trie par fusion : 0.004890 sec
+résultat (nb = 14053 ) trie rapide : 0.002854 sec
+résultat (nb = 14053 ) trie par tas : 0.006208 sec
+résultat (nb = 14053 ) trie Compte : 0.002360 sec
+
+Parametre boucle : nb = 21079
+
+résultat (nb = 21079 ) trie par insertion : 0.589123 sec
+résultat (nb = 21079 ) trie par fusion : 0.007516 sec
+résultat (nb = 21079 ) trie rapide : 0.004637 sec
+résultat (nb = 21079 ) trie par tas : 0.009232 sec
+résultat (nb = 21079 ) trie Compte : 0.002164 sec
+
+Parametre boucle : nb = 31618
+
+résultat (nb = 31618 ) trie par insertion : 1.316868 sec
+résultat (nb = 31618 ) trie par fusion : 0.011838 sec
+résultat (nb = 31618 ) trie rapide : 0.007149 sec
+résultat (nb = 31618 ) trie par tas : 0.015083 sec
+résultat (nb = 31618 ) trie Compte : 0.001750 sec
+
+Parametre boucle : nb = 47427
+
+résultat (nb = 47427 ) trie par insertion : 3.001615 sec
+résultat (nb = 47427 ) trie par fusion : 0.018475 sec
+résultat (nb = 47427 ) trie rapide : 0.010972 sec
+résultat (nb = 47427 ) trie par tas : 0.022805 sec
+résultat (nb = 47427 ) trie Compte : 0.002316 sec
+
+Parametre boucle : nb = 71140
+
+résultat (nb = 71140 ) trie par insertion : 6.720531 sec
+résultat (nb = 71140 ) trie par fusion : 0.030238 sec
+résultat (nb = 71140 ) trie rapide : 0.016552 sec
+résultat (nb = 71140 ) trie par tas : 0.040722 sec
+résultat (nb = 71140 ) trie Compte : 0.002812 sec
+
+Parametre boucle : nb = 106710
+
+résultat (nb = 106710 ) trie par insertion : 15.245554 sec
+résultat (nb = 106710 ) trie par fusion : 0.043882 sec
+résultat (nb = 106710 ) trie rapide : 0.026148 sec
+résultat (nb = 106710 ) trie par tas : 0.065966 sec
+résultat (nb = 106710 ) trie Compte : 0.003848 sec
+
+Parametre boucle : nb = 160065
+
+résultat (nb = 160065 ) trie par insertion : 35.095841 sec
+résultat (nb = 160065 ) trie par fusion : 0.070139 sec
+résultat (nb = 160065 ) trie rapide : 0.041882 sec
+résultat (nb = 160065 ) trie par tas : 0.097530 sec
+résultat (nb = 160065 ) trie Compte : 0.005432 sec
+
+Parametre boucle : nb = 240097
+
+résultat (nb = 240097 ) trie par insertion : 78.012255 sec
+résultat (nb = 240097 ) trie par fusion : 0.104431 sec
+résultat (nb = 240097 ) trie rapide : 0.060074 sec
+résultat (nb = 240097 ) trie par tas : 0.139740 sec
+résultat (nb = 240097 ) trie Compte : 0.007726 sec
+
+Parametre boucle : nb = 360145
+
+résultat (nb = 360145 ) trie par insertion : 187.846770 sec
+résultat (nb = 360145 ) trie par fusion : 0.172299 sec
+résultat (nb = 360145 ) trie rapide : 0.092028 sec
+résultat (nb = 360145 ) trie par tas : 0.230631 sec
+résultat (nb = 360145 ) trie Compte : 0.011954 sec
+
+Parametre boucle : nb = 540217
+
+résultat (nb = 540217 ) trie par insertion : 385.586257 sec
+résultat (nb = 540217 ) trie par fusion : 0.252416 sec
+résultat (nb = 540217 ) trie rapide : 0.139281 sec
+résultat (nb = 540217 ) trie par tas : 0.352890 sec
+résultat (nb = 540217 ) trie Compte : 0.018927 sec
+
+Parametre boucle : nb = 810325
+
+résultat (nb = 810325 ) trie par insertion : 875.157850 sec
+résultat (nb = 810325 ) trie par fusion : 0.381314 sec
+résultat (nb = 810325 ) trie rapide : 0.207399 sec
+résultat (nb = 810325 ) trie par tas : 0.545414 sec
+résultat (nb = 810325 ) trie Compte : 0.035539 sec

@@ -1,0 +1,166 @@
+#backToTop
+{
+  display:none
+}
+
+body
+{
+flex-direction:row;
+align-items: center;
+}
+header
+{
+  font-size: 1em;
+  display: flex;
+  margin: auto;
+  width:95%;
+  max-width: 900px;
+}
+header div figure
+{
+  display:none;
+}
+.colonne1
+{
+  width:40%;
+  display:flex;
+  flex-direction: column;
+}
+.colonne2
+{
+  width:60%;
+  display:flex;
+  flex-direction: column;
+}
+.colonne1 div
+{
+  padding-left: 1em;
+}
+.colonne1 div + div
+{
+  background-color: white;
+}
+.colonne2 div
+{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.colonne2 div + div
+{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-start;
+}
+header figure
+{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+nav
+{
+  display: none;
+}
+
+#corps
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+  width:95%;
+  max-width: 900px;
+}
+#corps .colonne1
+{
+  width:40%;
+  background-color: white;
+}
+#corps .colonne2
+{
+  display:flex;
+  flex-direction: row;
+  width:60%;
+  background-color: white;
+}
+#corps .colonne1 article
+{
+  margin-left: 1em;
+}
+#corps .colonne2 article
+{
+  width:100%;
+}
+#corps .colonne2 aside
+{
+  display: none;
+}
+
+#langues ul
+{
+  list-style: none;
+  display: flex;
+  flex-direction:row;
+  width: 40%;
+  flex-wrap: wrap;
+}
+#langues ul li img
+{
+  display:flex;
+  justify-content: space-between;
+  width: 30px;
+}
+a[title="Mon CV au format PDF"] img
+{
+  width: 30px;
+}
+
+section h1
+{
+  font-variant: small-caps;
+  text-transform :capitalize;
+  color:#FFFFFF;
+  background: navy;
+  width:80%;
+  padding: 3px;
+}
+
+section h1:first-letter
+{
+  text-transform : capitalize;
+}
+
+section h2
+{
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  color:#0040FF;
+}
+
+.date
+{
+  display: flex;
+  align-items: center;
+  background-color: #09F;
+  color:white;
+  padding-right: 3px;
+  border-radius:2px;
+  font-size: 0.5em;
+}
+
+section a
+{
+  color: #09F;
+}
+table
+{
+  border-collapse: collapse;
+}
+
+footer
+{
+  display: none;
+}

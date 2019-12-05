@@ -1,0 +1,190 @@
+#backToTop {
+display: inline-block;
+height: 40px;
+width: 40px;
+position: fixed;
+bottom: 40px;
+right: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+
+overflow: hidden;
+text-indent: 100%;
+white-space: nowrap;
+
+background: rgba(232, 98, 86, 0.8) url(../img/cd-top-arrow.svg) no-repeat center 50%;
+}
+
+body
+{
+  flex-direction:column;
+  margin-bottom:0;
+  width: 100%;
+}
+
+header
+{
+  display: flex;
+  margin: auto;
+  width:100%;
+  height:90vh;
+}
+.colonne1
+{
+  width:40%;
+  display:flex;
+  flex-direction: column;
+}
+.colonne2
+{
+  width:60%;
+  display:flex;
+  flex-direction: column;
+}
+.colonne1 div
+{
+  background-color: #2471A3;
+  height: 50%;
+  padding-left: 1em;
+}
+.colonne1 div + div
+{
+  background-color: white;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.colonne2 div
+{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 50%;
+}
+.colonne2 div + div
+{
+  background-color: #2471A3;
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-start;
+  height: 50%;
+  padding-left: 1em;
+}
+header figure
+{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}
+
+nav
+{
+  display: none;
+}
+
+nav ul
+{
+  display: flex;
+  list-style: none;
+}
+
+#corps
+{
+  width:100%;
+  display: flex;
+  flex-direction:column-reverse;
+}
+
+#corps .colonne1
+{
+  width:100%;
+  background-color: white;
+}
+#corps .colonne2
+{
+  display:flex;
+  flex-direction: row;
+  width:100%;
+  background-color: white;
+}
+
+#corps .colonne2 article
+{
+  width:100%;
+  background-color: #F8F9F9;
+}
+
+section h1
+{
+  font-variant: small-caps;
+  text-transform :capitalize;
+  color:#FFFFFF;
+  background: navy;
+  width:100%;
+  padding: 3px;
+}
+
+section h2
+{
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  color:#0040FF;
+}
+
+.date
+{
+  background-color: #09F;
+  color:white;
+  padding-right: 3px;
+  border-radius:2px;
+}
+
+#langues ul
+{
+  list-style: none;
+  display: flex;
+  flex-direction:row;
+  width: 50%;
+  flex-wrap: wrap;
+  margin: auto;
+}
+#langues ul li img
+{
+  width: 50px;
+}
+
+aside
+{
+  display:none;
+}
+
+footer
+{
+  display: flex;
+  margin: auto;
+  width:100%;
+}
+
+footer .colonne2
+{
+  display: none;
+}
+
+footer .colonne1
+{
+  width: 100%;
+}
+
+footer .colonne1 ul
+{
+  display: flex;
+  justify-content:space-between;
+  list-style: none;
+}
+
+footer .colonne1 ul a
+{
+  text-decoration: none;
+}
